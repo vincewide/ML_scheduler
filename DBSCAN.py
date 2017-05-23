@@ -28,7 +28,7 @@ class DB_SCAN:
         """
         Initialize the object with an associated name
         
-        :param object_name: The name of the object created
+        :param object_name: The name of the created object
         """
         self.object_name = object_name
     
